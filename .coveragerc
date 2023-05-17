@@ -1,0 +1,6 @@
+[run]
+omit = 
+        ./ardemo/_version.py
+        ./ardemo/__init__.py
+        ./ardemo/__main__.py
+        ./ardemo/ui/ardemo_command_line.py
